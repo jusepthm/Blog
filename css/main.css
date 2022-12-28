@@ -230,3 +230,40 @@ footer p{
   margin: 20px 0;
   font-size: 35px;
 }
+
+/* Seccion de contacto 
+======================= */
+
+.secction-contact{
+  width: 100%;
+  background-color: #e6e9ed;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 80px 50px;
+}
+.contact{
+  display: flex;
+  margin: 20px 0px 20px 20px;
+}
+
+.contact img{
+  width: 100px;
+  display: inline-block;
+  padding: 10px;
+}
+
+.contact-info{
+  padding: 20px 0;
+  width: 300px;
+}
+
+.contact-info a{
+  text-decoration: none;
+  color: #000;
+  border-bottom: 1px solid #000;
+  padding-bottom: 5px;
+}
+
+.contact-info p{
+  margin-top: 10px;
+}
