@@ -203,3 +203,30 @@ footer{
 footer p{
   color: #fff;
 }
+
+/* Blog 
+============= */
+
+.main-blog{
+  padding: 0 80px 40px;
+}
+
+.main-blog__content img{
+  display: inline-block;
+  padding: 0 50px 40px;
+  width: 100%;
+}
+
+.blog-content__article{
+  padding: 0 80px 40px;
+}
+
+.blog-content__article h4{
+  border-bottom: 1px solid #cdd2da;
+  padding: 20px 0;
+}
+
+.blog-content__article h1{
+  margin: 20px 0;
+  font-size: 35px;
+}
